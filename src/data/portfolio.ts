@@ -25,7 +25,7 @@ export const profile = {
   photoAlt: 'Portrait of Thushaar S',
   resumeUrl: asset('resume.pdf'),
   email: 'thushaar.21@gmail.com',
-  phone: '+971 50 133 6520',
+  phone: '+971 55 455 1289',
   phoneIndia: '+91 79044 86767',
 }
 
