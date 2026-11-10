@@ -138,7 +138,7 @@ export const competencies = [
 export type Video = { title: string; caption: string; src: string; poster: string }
 
 export const videos: Video[] = [
-  { title: 'Gardens by the Bay', caption: 'Travel reel · 0:22', src: asset('videos/gardens-by-the-bay.mp4'), poster: asset('videos/gardens-by-the-bay.jpg') },
+  { title: 'Space Story Floor Plans', caption: 'Brand explainer · 0:21', src: asset('videos/space-story-floor-plans.mp4'), poster: asset('videos/space-story-floor-plans.jpg') },
   { title: 'Rapido Story', caption: 'Split-screen story · 1:28', src: asset('videos/rapido-story.mp4'), poster: asset('videos/rapido-story.jpg') },
   { title: 'Sandy Trailer Cut', caption: 'Podcast clip · 1:06', src: asset('videos/sandy-trailer-cut.mp4'), poster: asset('videos/sandy-trailer-cut.jpg') },
   { title: 'Bangalore Moves', caption: 'Event promo · 0:27', src: asset('videos/bangalore-moves.mp4'), poster: asset('videos/bangalore-moves.jpg') },
